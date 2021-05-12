@@ -71,7 +71,6 @@ pyzmq==20.0.0
 QtPy==1.9.0
 sacremoses==0.0.43
 scipy==1.6.2
-sip==4.19.13
 smart-open==3.0.0
 smmap==3.0.5
 spacy==3.0.5
