@@ -69,7 +69,6 @@ pywinpty==0.5.7
 PyYAML==5.4.1
 pyzmq==20.0.0
 QtPy==1.9.0
-Rtree==0.9.4
 sacremoses==0.0.43
 scipy==1.6.2
 sip==4.19.13
